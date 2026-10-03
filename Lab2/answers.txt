@@ -1,0 +1,2 @@
+- The message dialog gonna show "You've choosen: No"
+- Use JOptionPane.showOptionDialog
